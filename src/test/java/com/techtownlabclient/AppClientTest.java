@@ -1,4 +1,4 @@
-package com.techtownlab;
+package com.techtownlabclient;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
