@@ -9,6 +9,7 @@ public class AppClient
         System.out.println( "Hello Client!" );
         
         Utils utils = new Utils();
-        
+        utils.setProductName("Client");
+        System.out.println(utils.getProductName());
     }
 }
